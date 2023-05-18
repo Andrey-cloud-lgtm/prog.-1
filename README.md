@@ -7,3 +7,5 @@ d=a+c
 print(d)
 e=d+b
 print(e)
+f=e*2
+print(f)
